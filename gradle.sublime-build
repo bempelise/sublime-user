@@ -1,0 +1,18 @@
+{
+    "cmd": "gradle build",
+    "shell": "true",
+    "working_dir": "${project_path}/../bpdf",
+    "variants":
+    [
+        {
+            "name": "jar",
+            "cmd" : ["gradle", "jar"],
+            "working_dir": "${project_path}/../bpdf",
+        },
+        {
+            "name": "run",
+            "cmd" : "gradle run",
+            "working_dir": "${project_path}/../bpdf",
+        },
+    ]
+}

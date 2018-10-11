@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApplySyntax",
+		"BracketFlasher",
+		"BracketHighlighter",
+		"C++ Starting Kit",
+		"CMake",
+		"Gradle_Language",
+		"LaTeXTools",
+		"More Layouts",
+		"Oasis Theme",
+		"OmniSharp",
+		"Package Control",
+		"SFTP",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-cpplint",
+		"SyntaxFold",
+		"SystemVerilog",
+		"TrailingSpaces",
+		"VHDL"
+	]
+}
