@@ -27,6 +27,7 @@
 		"SublimeLinter-contrib-cmakelint",
 		"SublimeLinter-cppcheck",
 		"SublimeLinter-cpplint",
+		"SublimeLinter-flake8",
 		"SublimeLinter-json",
 		"SublimeLinter-pylint",
 		"SyntaxFold",

@@ -53,6 +53,16 @@
             "paths": [],
             "rcfile": "",
             "show-codes": false
+        },
+        "flake8": {
+            "@disable": false,
+            "args": ["--max-line-length 100"],
+            "disable": false,
+            "enable": true,
+            "excludes": [],
+            "paths": [],
+            "rcfile": "",
+            "show-codes": false
         }
     },
     "no_column_highlights_line": false,
