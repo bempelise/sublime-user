@@ -56,7 +56,7 @@
         },
         "flake8": {
             "@disable": false,
-            "args": ["--max-line-length 100"],
+            "args": ["--max-line-length=100"],
             "disable": false,
             "enable": true,
             "excludes": [],
