@@ -37,7 +37,14 @@
             "syntax": "rdl",
             "match": "all",
             "rules": [
-                {"file_path": ".*rdl$"}
+                {"file_path": ".*.rdl$"}
+            ]
+        },
+        {
+            "syntax": "ShellScriptImproved/Shell-Unix-Generic",
+            "match": "all",
+            "rules": [
+                {"file_path": ".*Dockerfile.*$"}
             ]
         }
     ]
