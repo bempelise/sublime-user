@@ -19,7 +19,11 @@
 		"deque",
 		"pylint",
 		"Init",
-		"testbench"
+		"testbench",
+		"json",
+		"cpp",
+		"struct",
+		"cmake"
 	],
 	"always_show_minimap_viewport": true,
 	"auto_indent": true,
