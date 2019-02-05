@@ -8,8 +8,8 @@
     "sync_down_on_open": true,
     "sync_same_age": true,
     
-    "host": "bempelis-linux",
-    "user": "evangelos",
+    "host": "10.160.230.10",
+    "user": "evanb",
     //"password": "password",
     //"port": "22",
     
