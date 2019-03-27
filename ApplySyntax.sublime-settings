@@ -34,6 +34,13 @@
             ]
         },
         {
+            "syntax": "ShellScriptImproved/Shell-Unix-Generic",
+            "match": "all",
+            "rules": [
+                {"file_path": ".*.sourceme$"}
+            ]
+        },
+        {
             "syntax": "rdl",
             "match": "all",
             "rules": [
@@ -46,6 +53,6 @@
             "rules": [
                 {"file_path": ".*Dockerfile.*$"}
             ]
-        }
+        },
     ]
 }
