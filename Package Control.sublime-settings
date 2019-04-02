@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"ANSIescape",
 		"ANTLR syntax highlight",
 		"ApplySyntax",
 		"BracketFlasher",
