@@ -38,9 +38,11 @@
             "filter": [
                 "-build/include",
                 "-build/header_guard",
-                "-build/c++11",
-                "-runtime/string",
-                "-runtime/references"
+                // "-build/c++11",
+                // "-runtime/string",
+                "-whitespace/braces",
+                "-whitespace/newline",
+                // "-runtime/references"
             ],
             "linelength": "100"
         },
