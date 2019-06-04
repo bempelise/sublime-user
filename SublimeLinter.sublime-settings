@@ -65,6 +65,16 @@
             "paths": [],
             "rcfile": "",
             "show-codes": false
+        },
+        "javac": {
+            "@disable": false,
+            "args": ["-encoding", "UTF8"],
+            "disable": false,
+            "enable": true,
+            "excludes": [],
+            "paths": [],
+            "rcfile": "",
+            "show-codes": false
         }
     },
     "no_column_highlights_line": false,
