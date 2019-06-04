@@ -13,7 +13,6 @@
 		"C++ Starting Kit",
 		"CMake",
 		"Environment Settings",
-		"GoToLastEdit",
 		"Gradle_Language",
 		"LaTeXTools",
 		"More Layouts",
@@ -34,9 +33,7 @@
 		"SublimeLinter-json",
 		"SublimeLinter-pylint",
 		"SyntaxFold",
-		"SystemVerilog",
 		"TrailingSpaces",
-		"Verilog",
 		"VHDL"
 	]
 }
