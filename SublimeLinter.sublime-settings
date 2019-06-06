@@ -24,8 +24,12 @@
             "@disable": false,
             "args": [
                 "--suppress=unusedStructMember",
-                "--std=c++11",
-                "--language=c++"
+                "--language=c++",
+                "--platform=win64",
+                "-U__APPLE__",
+                "-U_WIN32",
+                "-ULAYOUT_DEBUG",
+                "-DNDEBUG=1"
             ],
             "enable": "style",
             "excludes": [],
