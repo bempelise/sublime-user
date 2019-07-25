@@ -13,13 +13,6 @@
             "excludes": [],
             "lint": "all"
         },
-        "cmakelint": {
-            "@disable": false,
-            "args": [
-                "--linelength=100"
-            ],
-            "excludes": []
-        },
         "cppcheck": {
             "@disable": false,
             "args": [
