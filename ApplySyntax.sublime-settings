@@ -53,6 +53,13 @@
             "rules": [
                 {"file_path": ".*conf.txt.*$"}
             ]
+        },
+        {
+            "syntax": "C#/C#",
+            "match": "all",
+            "rules": [
+                {"file_path": ".*.wfl$"}
+            ]
         }
     ]
 }
