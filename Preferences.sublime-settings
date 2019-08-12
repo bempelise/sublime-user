@@ -1,21 +1,6 @@
 {
 	"added_words":
 	[
-		"Aea",
-		"Onar",
-		"Lunor",
-		"Onar's",
-		"Aetherian",
-		"Zaion",
-		"Zaion's",
-		"Grell",
-		"Vanos",
-		"Allistor",
-		"Valas",
-		"Valorian",
-		"Pandidactirion",
-		"Dargorians",
-		"fairytales",
 		"deque",
 		"pylint",
 		"Init",
@@ -35,12 +20,12 @@
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
-	"font_face": "Pt Mono",
+	"font_face": "Source Code Pro",
 	"font_options":
 	[
 		"dwrite_cleartype_natural"
 	],
-	"font_size": 12,
+	"font_size": 11,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
