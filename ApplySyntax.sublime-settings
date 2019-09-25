@@ -60,6 +60,13 @@
             "rules": [
                 {"file_path": ".*.wfl$"}
             ]
+        },
+        {
+            "syntax": "C++",
+            "match": "all",
+            "rules": [
+                {"file_path": ".*.i$"}
+            ]
         }
     ]
 }
