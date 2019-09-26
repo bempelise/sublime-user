@@ -27,7 +27,7 @@
             ]
         },
         {
-            "syntax": "ShellScriptImproved/Shell-Unix-Generic",
+            "syntax": "ShellScript/Bash",
             "match": "all",
             "rules": [
                 {"file_path": ".*sourceme$"},
@@ -41,14 +41,14 @@
             ]
         },
         {
-            "syntax": "ShellScriptImproved/Shell-Unix-Generic",
+            "syntax": "ShellScript/Bash",
             "match": "all",
             "rules": [
                 {"file_path": ".*Dockerfile.*$"}
             ]
         },
         {
-            "syntax": "ShellScriptImproved/Shell-Unix-Generic",
+            "syntax": "ShellScript/Bash",
             "match": "all",
             "rules": [
                 {"file_path": ".*conf.txt.*$"}
@@ -62,11 +62,18 @@
             ]
         },
         {
-            "syntax": "C++",
+            "syntax": "C++/C++",
             "match": "all",
             "rules": [
                 {"file_path": ".*.i$"}
             ]
-        }
+        },
+        {
+            "syntax": "ShellScript/Bash",
+            "match": "all",
+            "rules": [
+                {"file_path": ".*.gn$"}
+            ]
+        },
     ]
 }
