@@ -69,7 +69,7 @@
             ]
         },
         {
-            "syntax": "ShellScript/Bash",
+            "syntax": "GN",
             "match": "all",
             "rules": [
                 {"file_path": ".*.gn$"}
