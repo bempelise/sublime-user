@@ -62,17 +62,24 @@
             ]
         },
         {
-            "syntax": "C++/C++",
+            "syntax": "GN",
             "match": "all",
             "rules": [
-                {"file_path": ".*.i$"}
+                {"file_path": ".*.gn$"}
             ]
         },
         {
             "syntax": "GN",
             "match": "all",
             "rules": [
-                {"file_path": ".*.gn$"}
+                {"file_path": ".*.gni$"}
+            ]
+        },
+        {
+            "syntax": "C++/C++",
+            "match": "all",
+            "rules": [
+                {"file_path": ".*.i$"}
             ]
         },
     ]
