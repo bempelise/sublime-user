@@ -36,6 +36,7 @@
 		"SublimeLinter-json",
 		"SublimeLinter-pylint",
 		"SyntaxFold",
+		"TOML",
 		"TrailingSpaces",
 		"VHDL"
 	]
