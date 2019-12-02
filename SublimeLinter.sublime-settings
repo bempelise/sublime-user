@@ -35,11 +35,11 @@
             "filter": [
                 "-build/include",
                 "-build/header_guard",
-                // "-build/c++11",
+                "-build/c++11",
                 // "-runtime/string",
                 "-whitespace/braces",
                 "-whitespace/newline",
-                // "-runtime/references"
+                "-runtime/references",
             ],
             "linelength": "100"
         },
