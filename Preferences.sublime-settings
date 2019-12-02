@@ -32,6 +32,11 @@
 		"Rust",
 		"Vintage"
 	],
+	"ignored_words":
+	[
+		"Luma",
+		"Vidchecker"
+	],
 	"indent_guide_options":
 	[
 		"draw_normal",
